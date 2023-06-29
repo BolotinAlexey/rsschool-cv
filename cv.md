@@ -1,3 +1,5 @@
+# Alexey Bolotin
+
 ## *Junior fullstack developer*
 
 *****
@@ -67,3 +69,22 @@
  > - **Wyższa Szkoła "COSINUS" (informatics technician)** _(completed)_
  >
  > - **Kirovohrad National Technical University (systemic engineer)** _(completed)_
+ 
+ ### Project expierence
+ 
+ > - **[WebStudio [ HTML, CSS, SASS ] (pet project)](https://bolotinalexey.github.io/goit-markup-hw-08)** [*code*](https://github.com/BolotinAlexey/goit-markup-hw-08)
+ >
+ > - **[Ice cream [ HTML, SASS, Parcel, JavaScript ] (team project)](https://bolotinalexey.github.io/go-it-team-project/)** [*code*](https://github.com/BolotinAlexey/go-it-team-project)
+ > 
+ > - **[New York Times [ HTML, SASS, JavaScript, Parcel, Ajax ] (team project)](https://maxf1996.github.io/NYTimesNews/)** [*code*](https://github.com/MaxF1996/NYTimesNews)
+ > 
+ > - **[Contacts (restAPI) [ Node.js, MongoDB, Multer, Docker, Jest] (pet project)](https://first-project-nelo.onrender.com/)** [*code*](https://github.com/BolotinAlexey/nodejs-rest-api-contacts)
+ ### Languages
+ 
+ > - **English** _Intermediate_
+ >
+ > - **Polish** _Intermediate_
+ >
+ > - **Russian** _Native_
+ >
+ > - **Ukraian** _Native_
