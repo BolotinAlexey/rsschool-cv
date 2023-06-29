@@ -60,7 +60,7 @@
   return sum*4
 }
 > ```
->![da](https://www.codewars.com/users/BolotinAlexey/badges/small)
+> ![codewars](https://www.codewars.com/users/BolotinAlexey/badges/small)
  
  ### Education
  
