@@ -90,4 +90,4 @@
  >
  > - **Russian** _Native_
  >
- > - **Ukraian** _Native_
+ > - **Ukraian** _Proficiency_
