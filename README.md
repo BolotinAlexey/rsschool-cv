@@ -1,1 +1,3 @@
-# [https://BolotinAlexey.github.io/rsschool-cv/cv](https://BolotinAlexey.github.io/rsschool-cv/cv)
+# rsschool-cv
+
+[https://BolotinAlexey.github.io/rsschool-cv/](https://BolotinAlexey.github.io/rsschool-cv/)
