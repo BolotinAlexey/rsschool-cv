@@ -1,5 +1,5 @@
 :root {
-  --main-color: #000;
+  --main-color: #444;
   --accent-color: #ff5d52;
   --second-color: #fff;
 }
@@ -88,7 +88,6 @@ p {
     align-items: center;
     
     background-image: linear-gradient(180deg,var(--accent-color) 0%,var(--second-color) 80%);
-    /* margin-bottom: 20px; */
 }
 
 /* logo */
@@ -243,11 +242,6 @@ p {
   transition: transform 0.25s linear;
 }
 
-.project__img:hover {
-  transform: scale(8);
-  z-index: 10;
-}
-
 .project:nth-of-type(even) > .project__img {
   height: 8rem;
 }
@@ -326,4 +320,25 @@ position: relative;
 pre{
     
     background-color: #eee;
+}
+
+.footer{
+      height: 100px;
+    padding: 30px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    background-image: linear-gradient(0,var(--accent-color) 0%,var(--second-color) 100%);
+}
+
+.footer__list{
+    list-style: none;
+}
+.year{
+    font: 1.2em Alkatra;
+}
+
+.contacts__icon-invert{
+    fill: var(--main-color);
 }
