@@ -84,7 +84,7 @@ p {
 /* HEADER */
 .header{
     height: 100px;
-    padding: 20px 10px;
+    padding: 20px;
     display: flex;
     align-items: center;
     animation:infinite footer-header 3s ;
@@ -142,6 +142,7 @@ p {
 
 .left {
   width: 35%;
+  padding-left: 20px;
 }
 .right {
   width: 65%;
@@ -194,10 +195,21 @@ p {
 /* .tech__item {
   flex-basis: 100%;
 } */
+
+.tech__list,.soft__list{
+  list-style: none;
+  padding-left: 0;
+}
+
+/* .tech__item:nth-child(1)::before{
+  content: "ldf";
+} */
+
 .lang__item,
 .tech__item {
   flex-basis: 45%;
 }
+
 
 .lang__item > h4 {
   margin: 8px 0 0;
