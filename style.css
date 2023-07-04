@@ -200,6 +200,9 @@ p {
   list-style: none;
   padding-left: 0;
 }
+.skills__icon{
+  transform: translateY(2px);
+}
 
 /* .tech__item:nth-child(1)::before{
   content: "ldf";
