@@ -1,6 +1,7 @@
 :root {
   --main-color: #444;
   --accent-color: #ff5d52;
+  --accent-rgb:255, 93, 82;
   --second-color: #fff;
 }
 
@@ -86,8 +87,34 @@ p {
     padding: 20px 10px;
     display: flex;
     align-items: center;
-    
-    background-image: linear-gradient(180deg,var(--accent-color) 0%,var(--second-color) 80%);
+    animation:infinite footer-header 3s ;
+    /* transition: all; */
+     /* background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 90%); */
+     transition: background-image ease 3s;
+}
+
+@keyframes footer-header{
+0%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 90%);}
+5%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 88%);}
+10%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 86%);}
+15%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 84%);}
+20%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 82%);}
+25%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 80%);}
+30%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 78%);}
+35%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 76%);}
+40%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 74%);}
+45%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 72%);}
+50%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 70%);}
+55%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 72%);}
+60%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 74%);}
+65%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 76%);}
+70%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 78%);}
+75%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 80%);}
+80%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 82%);}
+85%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 84%);}
+90%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 86%);}
+95%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 88%);}
+100%{background-image: linear-gradient(180deg,var(--accent-color) 0%,rgba(var(--accent-rgb),.1) 90%);}
 }
 
 /* logo */
@@ -108,6 +135,7 @@ p {
 }
 
 .main {
+  background-color: rgba(var(--accent-rgb),.1);
   display: flex;
   /* flex-direction: column; */
 }
@@ -182,6 +210,7 @@ p {
 
 .introduce > h1 {
   font-size: 2.7rem;
+  font-family: Alkatra;
   color: inherit;
 }
 
@@ -270,14 +299,10 @@ p {
 }
 
 .project__link {
-  color: black;
+  color: var(--main-color);
 }
 
 /* Work expierence */
-
-/* .work__name {
-  margin: 3px 0;
-} */
 
 .work__item,
 .education__item {
@@ -319,24 +344,29 @@ position: relative;
 
 pre{
     
-    background-color: #eee;
+    background-color: rgba(var(--accent-rgb),.3);
 }
 
 .footer{
-      height: 100px;
-    padding: 30px 10px 10px;
-    display: flex;
+      
+        animation:infinite footer-header 3s ;
+        transform: rotate(180deg);
+   
+}
+.footer__wrapper{
+  height: 100px;
+  padding: 30px 10px 10px;
+display: flex;
     align-items: center;
     justify-content: space-between;
-    
-    background-image: linear-gradient(0,var(--accent-color) 0%,var(--second-color) 100%);
+    transform: rotate(180deg);
 }
 
 .footer__list{
     list-style: none;
 }
 .year{
-    font: 1.2em Alkatra;
+    font: 1.4em Alkatra;
 }
 
 .contacts__icon-invert{
