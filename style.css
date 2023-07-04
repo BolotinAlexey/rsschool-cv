@@ -130,10 +130,21 @@ p {
     list-style: none;
 }
 
+.nav__item>a{
+  text-decoration: none;
+}
+.nav__item{
+    transition: transform ease .25s;
+
+}
+.nav__item:hover{
+    transform: scale(1.15);
+    
+}
+
 .main {
   background-color: rgba(var(--accent-rgb),.1);
   display: flex;
-  /* flex-direction: column; */
 }
 
 .left {
@@ -341,15 +352,12 @@ position: relative;
 }
 
 pre{
-    
     background-color: rgba(var(--accent-rgb),.3);
 }
 
 .footer{
-      
         animation:infinite footer-header 3s ;
         transform: rotate(180deg);
-   
 }
 .footer__wrapper{
   height: 100px;
@@ -369,4 +377,9 @@ display: flex;
 
 .contacts__icon-invert{
     fill: var(--main-color);
+    transition: fill ease .25s;
 }
+.contacts__icon-invert:hover{
+  fill: var(--second-color)
+}
+
