@@ -69,7 +69,7 @@
  >
  > - **Kirovohrad National Technical University (systemic engineer)**
  
- ### Project expierence
+### Project expierence
  > - **[WebStudio [ HTML, CSS, SASS ] (pet project)](https://bolotinalexey.github.io/goit-markup-hw-08)** [*code*](https://github.com/BolotinAlexey/goit-markup-hw-08)
  >
  > - **[Ice cream [ HTML, SASS, Parcel, JavaScript ] (team project)](https://bolotinalexey.github.io/go-it-team-project/)** [*code*](https://github.com/BolotinAlexey/go-it-team-project)
