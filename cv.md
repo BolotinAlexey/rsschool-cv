@@ -64,8 +64,7 @@
 }
 ```
 
-
- ### Education
+### Education
 
  > - **GoIT (fulstack developer)** _(in processing)_
  >
@@ -73,7 +72,7 @@
  >
  > - **Kirovohrad National Technical University (systemic engineer)** _(completed)_
  
- ### Project expierence
+### Project expierence
  
  > - **[WebStudio [ HTML, CSS, SASS ] (pet project)](https://bolotinalexey.github.io/goit-markup-hw-08)** [*code*](https://github.com/BolotinAlexey/goit-markup-hw-08)
  >
@@ -82,6 +81,7 @@
  > - **[New York Times [ HTML, SASS, JavaScript, Parcel, Ajax ] (team project)](https://maxf1996.github.io/NYTimesNews/)** [*code*](https://github.com/MaxF1996/NYTimesNews)
  >
  > - **[Contacts (restAPI) [ Node.js, MongoDB, Multer, Docker, Jest] (pet project)](https://first-project-nelo.onrender.com/)** [*code*](https://github.com/BolotinAlexey/nodejs-rest-api-contacts)
+ 
  ### Languages
 
  > - **English** _Intermediate_
