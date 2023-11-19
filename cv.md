@@ -1,8 +1,9 @@
 # Alexey Bolotin
 
-## *Junior fullstack developer*
+## _Junior fullstack developer_
 
-*****
+---
+
 ### Contact information
 
 > [samkiral73@gmail.com](oleksiibolotin@gmail.com)
@@ -18,7 +19,8 @@
 >adress: Lodz, 94-047, Poland
 
 ### Summer
-> *As a motivated Junior Full Stack developer, I bring expertise in HTML,  CSS3, JS, React and NodeJS to my work. I am deeply committed to delivering exceptional results and prioritize development and continuous improvement. With a keen eye for detail and a talent for problem-solving, I excel in analyzing complex technical issues and implementing effective solutions. Above all, I am a highly driven and proactive team player who is always eager to learn and grow.*
+
+> _As a motivated Junior Full Stack developer, I bring expertise in HTML, CSS3, JS, React and NodeJS to my work. I am deeply committed to delivering exceptional results and prioritize development and continuous improvement. With a keen eye for detail and a talent for problem-solving, I excel in analyzing complex technical issues and implementing effective solutions. Above all, I am a highly driven and proactive team player who is always eager to learn and grow._
 
 ### Tech skills
 
@@ -26,7 +28,7 @@
 >
 > - **JavaScript/TypeScript**
 >
-> - **React/Redux/ReactNative**
+> - **React/Redux**
 >
 > - **Git/WebPack/Parcel**
 >
@@ -42,7 +44,7 @@
 >
 > - Eager to learn
 
-### Code example 
+### Code example
 
 > [![codewars](https://www.codewars.com/users/BolotinAlexey/badges/small)](https://www.codewars.com/users/BolotinAlexey/badges/small)
 >
